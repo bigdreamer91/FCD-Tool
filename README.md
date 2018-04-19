@@ -4,7 +4,7 @@
 
 2. Add all the files except the sql file under MAMP/htdocs
 
-3. create fcd_decomposition_db through phpmyadmin
+3. create fcd_decomposition_db database through phpmyadmin
 
 4. Import the sql file using phpmyadmin
 
